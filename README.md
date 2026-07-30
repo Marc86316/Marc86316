@@ -1,7 +1,5 @@
 [ 切換至中文版 README ➔ ](./README_zh-TW.md)
 
----
-
 # 👋 Hi, I'm Marc (Zhen-De)
 
 I am an Engineer and Data Analyst with a background in **Mechanical Engineering** and an **MSc in Applied Artificial Intelligence from the University of Essex, UK**. I specialize in cross-disciplinary applications combining **Data Analysis**, **Business Analytics**, and **Smart Manufacturing / Machine Learning**.
@@ -50,5 +48,4 @@ I bridge theory and practical implementation. Instead of relying on intuition, I
 
 ## 📬 Connect with Me
 - **Digital CV**: [Zhen-De Digital CV](https://github.com/Marc86316/Zhen-De-Digital-CV)
-- **LinkedIn**: [Your LinkedIn URL]
-- **Email**: [Your Email Address]
+- **Email**: [marcuslyleth@gmail.com]
