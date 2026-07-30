@@ -1,4 +1,4 @@
-[ 切換至中文版 README ➔ ](./README.zh-TW.md)
+[ 切換至中文版 README ➔ ](./README_zh-TW.md)
 
 ---
 
