@@ -48,5 +48,4 @@
 
 ## 📬 聯絡方式
 - **Digital CV**: [Zhen-De Digital CV](https://github.com/Marc86316/Zhen-De-Digital-CV)
-- **LinkedIn**: [Your LinkedIn URL]
-- **Email**: [Your Email Address]
+- **Email**: [marcuslyleth@gmail.com]
